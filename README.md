@@ -4,10 +4,8 @@ The aim of this project is to develop a predictive model that utilizes demograph
 
 Objectives:  
     1. Exploratory Data Analysis: Understanding demographic and political party features and their impact on past election outcomes to drive insights.   
-        
     2. Prediction Model: Preprocessed data using python packages- scikit-learn, pandas, numpy and build a prediction model. Improved model accuracy by implementing 
                          feature engineering and feature selection techniques.     
-                         
     3. Twitter Sentiment Analysis: Analyzed the sentiment of tweets made by users regarding the upcoming elections and using NLP techniques classified it as 
                                    positive, neutral and negative to get a better perspective of voters.  
 
