@@ -9,3 +9,7 @@ Objectives:
     3. Twitter Sentiment Analysis: Analyzed the sentiment of tweets made by users regarding the upcoming elections and using NLP techniques classified it as 
                                    positive, neutral and negative to get a better perspective of voters.  
 
+Outcome:
+The past trends and patterns of election outcomes and candidate demographics were analyzed to better understand the competitive landscape. Prediction model achieved more than 90%+ accuracy by feature engineering and feature selection techniques. The model's ability to predict election results accurately can assist political parties in allocating resources strategically, identifying key demographics to target, and tailoring campaign messages effectively.
+
+
