@@ -10,7 +10,7 @@ The aim of this project is to develop a predictive model that utilizes demograph
                                    positive, neutral and negative to get a better perspective of voters.  
 
 
-## Outcome:
+## Outcome:  
 The past trends and patterns of election outcomes and candidate demographics were analyzed to better understand the competitive landscape. Prediction model achieved more than 90%+ accuracy by feature engineering and feature selection techniques. The model's ability to predict election results accurately can assist political parties in allocating resources strategically, identifying key demographics to target, and tailoring campaign messages effectively.
 
 
